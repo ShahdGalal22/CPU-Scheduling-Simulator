@@ -67,4 +67,4 @@ python main.py
 
 ## Author
 
-Shahd
+Shahd Mohamed Galal 
