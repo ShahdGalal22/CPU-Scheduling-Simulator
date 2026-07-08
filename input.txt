@@ -1,0 +1,4 @@
+2 # process no
+5 2 # arrival time
+8 3 # burst
+5 # lampda of priority generated randomly with sd 5 
